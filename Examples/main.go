@@ -2,7 +2,7 @@ package example
 
 import (
 	"fmt"
-	."github.com/Vad3L/GalaxyLifeGoApi/galaxyLifeAPI"
+	."github.com/vad3l/galaxylifegoapi"
 )
 
 

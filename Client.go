@@ -1,4 +1,4 @@
-package galaxyLifeAPI
+package GalaxyLife
 
 import (
 	"fmt"
