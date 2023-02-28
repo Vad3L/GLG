@@ -1,2 +1,1 @@
-# GLG
-# GLG
+# Galaxy Life GO Api
