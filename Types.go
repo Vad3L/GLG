@@ -1,4 +1,4 @@
-package main
+package galaxyLifeAPI
 
 type Planets struct {
 	OwnerId	string
