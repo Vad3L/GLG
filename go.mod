@@ -1,3 +1,3 @@
-module github.com/vad3L/GalaxyLifeGoApi
+module github.com/Vad3L/GalaxyLifeGoApi
 
 go 1.19
